@@ -1,16 +1,14 @@
-### Hi there 👋
+## Louis Moresi
 
-<!--
-**lmoresi/lmoresi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Researchgate: https://www.researchgate.net/profile/Louis_Moresi
+  - ResearcherID: http://www.researcherid.com/rid/H-1390-2011
+  - Orcid: http://orcid.org/0000-0003-3685-174X
+  - Zotero: http://www.zotero.org/lmoresi
+  
+I am a professor of geophysics at the Australian National University in Canberra, Australia. I am interested in understanding the evolution of the deep Earth over geological time, and how this evolution is recorded in the superficial geological record. The tools of my trade are computational models which you can read about on the Software page.
 
-Here are some ideas to get you started:
+I am a strong supporter of open source code so you will also find links to repositories where the source code is available with examples of how to reproduce peer-reviewed benchmarks and published results. Since I am also a believer in literate programming [1], recent examples are in the form of ipython / jupyter notebooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you would like to contact me, please be aware that I am delocalised between Melbourne and Canberra and that I have a number of commitments in the UK that have me travelling often; email does not always find me quickly and my phone may not work but, please, do try !
+
+[1] Knuth, Donald E. (1984). “Literate Programming”. The Computer Journal (British Computer Society) 27 (2): 97–111. doi:10.1093/comjnl/27.2.97.
