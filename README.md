@@ -2,7 +2,6 @@
 
   - Researchgate: https://www.researchgate.net/profile/Louis_Moresi
   - ResearcherID: http://www.researcherid.com/rid/H-1390-2011
-  - Orcid: http://orcid.org/0000-0003-3685-174X
   - Zotero: http://www.zotero.org/lmoresi
   
 I am a professor of geophysics at the Australian National University in Canberra, Australia. I am interested in understanding the evolution of the deep Earth over geological time, and how this evolution is recorded in the superficial geological record. The tools of my trade are computational models which you can read about on the Software page.
